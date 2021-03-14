@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "201985929567",
+    "firebase_url": "https://ass2hazem.firebaseio.com",
+    "project_id": "ass2hazem",
+    "storage_bucket": "ass2hazem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201985929567:android:6bd360b93dd535589306ea",
+        "android_client_info": {
+          "package_name": "com.example.ass1db"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201985929567-67da52v1opg0gjhjed7rda5m3d4jgb81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbKcSqshUrSnyZR_Wht2kBjVuxgAmXRNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201985929567-67da52v1opg0gjhjed7rda5m3d4jgb81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
